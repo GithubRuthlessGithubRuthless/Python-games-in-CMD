@@ -32,13 +32,13 @@ if thirdaction == "1":
 if thirdaction == "2":
     print("This is not GTA, so you couldn’t take away the gold bars because\nthey weigh too much and while you were walking through the tunnel like turtles,\nthe police already caught you. Wasted")
     exit()
-fourthaction = input("1. Drive the van to the shelter.\n2. Drive into the forest in a van and divide the amount there.")
+fourthaction = input("1. Drive the van to the shelter.\n2. Drive into the forest in a van and divide the amount there: ")
 if fourthaction == "1":
     print("You have been tracked. FBI, OPEN UP DOOR!!!")
     exit()
 if fourthaction == "2":
     print("You have divided everything successfully.")
-pentaethism = input("1.Go to your home and buy a Tesla, a mega computer, donate to Dragon Lore in CS2,\nbuy a house of the future, buy out SpaceX,\nand announce that you are a multi-billionaire.\n2.Go to another country and live there. Buy a house there and live in peace without robbery.")
+pentaethism = input("1.Go to your home and buy a Tesla, a mega computer, donate to Dragon Lore in CS2,\nbuy a house of the future, buy out SpaceX,\nand announce that you are a multi-billionaire.\n2.Go to another country and live there. Buy a house there and live in peace without robbery: ")
 if pentaethism == "1":
     print("Your identity has been established! FBI, OPEN UP DOOR")
     exit()
